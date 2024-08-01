@@ -1,0 +1,25 @@
+c:\users\hansalaj\documents\visual studio 2015\Projects\Employee Management System\Employee Management System\bin\Debug\Employee Management System.exe.config
+c:\users\hansalaj\documents\visual studio 2015\Projects\Employee Management System\Employee Management System\bin\Debug\Employee Management System.exe
+c:\users\hansalaj\documents\visual studio 2015\Projects\Employee Management System\Employee Management System\bin\Debug\Employee Management System.pdb
+c:\users\hansalaj\documents\visual studio 2015\Projects\Employee Management System\Employee Management System\obj\Debug\Employee Management System.csprojResolveAssemblyReference.cache
+c:\users\hansalaj\documents\visual studio 2015\Projects\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.Form1.resources
+c:\users\hansalaj\documents\visual studio 2015\Projects\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.Properties.Resources.resources
+c:\users\hansalaj\documents\visual studio 2015\Projects\Employee Management System\Employee Management System\obj\Debug\Employee Management System.csproj.GenerateResource.Cache
+c:\users\hansalaj\documents\visual studio 2015\Projects\Employee Management System\Employee Management System\obj\Debug\Employee Management System.exe
+c:\users\hansalaj\documents\visual studio 2015\Projects\Employee Management System\Employee Management System\obj\Debug\Employee Management System.pdb
+C:\Users\hansalaj\Documents\Visual Studio 2015\Projects\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.Form2.resources
+C:\Users\hansalaj\Documents\Visual Studio 2015\Projects\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.Form3.resources
+C:\Users\hansalaj\Documents\Visual Studio 2015\Projects\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.Form4.resources
+D:\Emp Management System\Employee Management System\Employee Management System\bin\Debug\Employee Management System.exe.config
+D:\Emp Management System\Employee Management System\Employee Management System\bin\Debug\Employee Management System.exe
+D:\Emp Management System\Employee Management System\Employee Management System\bin\Debug\Employee Management System.pdb
+D:\Emp Management System\Employee Management System\Employee Management System\obj\Debug\Employee Management System.csproj.AssemblyReference.cache
+D:\Emp Management System\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.Form1.resources
+D:\Emp Management System\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.Form2.resources
+D:\Emp Management System\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.Form3.resources
+D:\Emp Management System\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.Form4.resources
+D:\Emp Management System\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.Properties.Resources.resources
+D:\Emp Management System\Employee Management System\Employee Management System\obj\Debug\Employee Management System.csproj.GenerateResource.cache
+D:\Emp Management System\Employee Management System\Employee Management System\obj\Debug\Employee Management System.csproj.CoreCompileInputs.cache
+D:\Emp Management System\Employee Management System\Employee Management System\obj\Debug\Employee Management System.exe
+D:\Emp Management System\Employee Management System\Employee Management System\obj\Debug\Employee Management System.pdb
